@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100vw;
+    background-color: rgb(220, 241, 255);
+}
+.logo{
+    width: 90px;
+    margin-top: -145px;
+    margin-left: 30px;
+}
+
+h1{
+    text-align: center;
+}
+
+nav li{
+    display: inline-block;
+    margin: 30px;
+    margin-left: 10%;
+}
+a{
+    text-decoration: none;
+    color: rgba(79, 79, 235, 0.622);
+}
+a:hover{
+    color: rgb(27, 10, 177);
+}
+nav ul{
+    background-color: rgb(190, 212, 250);    
+}
+
+#cards {
+    display: flex;
+    justify-content: space-around;
+}
+
+.img img {
+    width: 500px;
+    border-radius: 20px;
+    margin: 20px;
+}
+.img h1 {
+    margin-top: 80px;
+    margin-left: 820px;
+}
+.img2 {
+    margin-left: 100px;
+}
+
+.titulo {
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+h2 {
+    margin-top: 90px;
+    margin-left: 550px;
+}

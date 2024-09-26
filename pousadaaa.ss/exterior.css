@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100vw;
+    background-color: rgb(220, 241, 255);
+}
+.logo{
+    width: 90px;
+    margin-top: -145px;
+    margin-left: 30px;
+}
+
+nav li{
+    display: inline-block;
+    margin: 30px;
+    margin-left: 10%;
+}
+a{
+    text-decoration: none;
+    color: rgba(79, 79, 235, 0.622);
+}
+a:hover{
+    color: rgb(27, 10, 177);
+}
+nav ul{
+    background-color: rgb(190, 212, 250);
+    
+}
+.cards{
+    display: flex;
+    
+}
+.card-img-top{
+    border-radius: 10px;
+    border: 10px;
+}
+.cd{
+    border-radius: 10px;
+    border: 10px;
+    background-color: rgb(190, 212, 250);
+    margin-left: 290px;
+    margin-top: 70px;
+}
+h1{
+    text-align: center;
+    font-family: "Whisper", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+    color: blue;
+
+}
